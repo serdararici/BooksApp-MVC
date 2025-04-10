@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksAppWeb", "BooksAppWeb\BooksAppWeb.csproj", "{0AEB5C99-8963-4F93-A10A-9D02DB7503CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksAppWebRazor_Temp", "BooksAppWebRazor_Temp\BooksAppWebRazor_Temp.csproj", "{C09F937B-BE18-46A0-A271-DE7DDCED4B4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0AEB5C99-8963-4F93-A10A-9D02DB7503CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AEB5C99-8963-4F93-A10A-9D02DB7503CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AEB5C99-8963-4F93-A10A-9D02DB7503CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09F937B-BE18-46A0-A271-DE7DDCED4B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09F937B-BE18-46A0-A271-DE7DDCED4B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09F937B-BE18-46A0-A271-DE7DDCED4B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09F937B-BE18-46A0-A271-DE7DDCED4B4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
