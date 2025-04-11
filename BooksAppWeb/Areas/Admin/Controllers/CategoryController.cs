@@ -4,8 +4,9 @@ using BooksApp.Models;
 using Microsoft.AspNetCore.Mvc;
 
 
-namespace BooksAppWeb.Controllers
+namespace BooksAppWeb.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
