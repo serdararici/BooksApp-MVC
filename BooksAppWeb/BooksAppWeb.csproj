@@ -16,4 +16,10 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="9.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BooksApp.DataAccess\BooksApp.DataAccess.csproj" />
+    <ProjectReference Include="..\BooksApp.Models\BooksApp.Models.csproj" />
+    <ProjectReference Include="..\BooksApp.Utility\BooksApp.Utility.csproj" />
+  </ItemGroup>
+
 </Project>

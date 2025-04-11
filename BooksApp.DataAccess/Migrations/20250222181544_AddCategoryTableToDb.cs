@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace BooksAppWeb.Migrations
+namespace BooksApp.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryTableToDb : Migration
