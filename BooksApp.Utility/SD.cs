@@ -8,5 +8,9 @@ namespace BooksApp.Utility
 {
     public static class SD
     {
+        public const String Role_Customer = "Customer";
+        public const String Role_Company = "Company";
+        public const String Role_Admin = "Admin";
+        public const String Role_Employee = "Employee";
     }
 }
